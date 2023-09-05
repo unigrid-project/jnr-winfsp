@@ -14,7 +14,7 @@
     If not, see <http://www.gnu.org/licenses/> and <https://github.com/unigrid-project/janus-java>.
 */
 
-module jnrwinfsp {		
+module jnrwinfspp {		
 	exports com.github.jnrwinfspteam.jnrwinfsp.api;
 	exports com.github.jnrwinfspteam.jnrwinfsp.memfs;
 	exports com.github.jnrwinfspteam.jnrwinfsp.service;
